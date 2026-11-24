@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
-return 0;
+//[v1.1]print and log current working dir.
+	return 0;
 
 }
